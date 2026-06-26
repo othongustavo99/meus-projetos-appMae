@@ -1,4 +1,4 @@
-# Projeto Integrador - Meu Portfólio Completo
+# Projeto Integrador - Meu Aplicativo em Andamento
 
 Um grande projeto que centraliza **todos os aplicativos e sistemas** que estou desenvolvendo durante minha formação em Desenvolvimento de Software.
 
@@ -66,15 +66,6 @@ Estou em busca da **primeira oportunidade como Desenvolvedor Junior**, onde poss
 
 ---
 
-## 📬 Como Entrar em Contato
-
-Estou aberto a **oportunidades de estágio ou vaga Júnior**.
-
-- **LinkedIn**: [seu-linkedin-aqui]
-- **E-mail**: [seuemail@exemplo.com]
-- **GitHub**: [@seuusuario](https://github.com/seuusuario)
-
----
 
 **"Do pequeno ao grande, construindo uma carreira sólida um commit por vez."**
 
