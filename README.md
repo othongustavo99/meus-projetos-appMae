@@ -1,74 +1,85 @@
-# Projeto Integrador - Meu Aplicativo em Andamento
+# 📱 AppMãe - Projeto Integrador
 
-Um grande projeto que centraliza **todos os aplicativos e sistemas** que estou desenvolvendo durante minha formação em Desenvolvimento de Software.
+**Aplicativo principal** que centraliza todos os meus projetos desenvolvidos durante a formação em Desenvolvimento de Software.
 
-Este repositório funciona como o **guarda-chuva principal** de todos os meus projetos menores, demonstrando minha evolução, organização, arquitetura de software e capacidade de integrar múltiplas soluções.
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 
 ---
 
 ## 🎯 Sobre o Projeto
 
-Este é meu **projeto principal e mais ambicioso** da formação. Nele estou aplicando tudo que aprendi em:
+Este repositório é o **guarda-chuva** dos meus projetos. Nele estou integrando vários aplicativos menores em um único app, demonstrando:
 
-- Desenvolvimento Frontend e Backend
-- Integração entre sistemas
-- Banco de dados
-- Autenticação e segurança
-- Design de interfaces
-- Boas práticas de código e versionamento
+- Arquitetura escalável
+- Boas práticas de desenvolvimento mobile
+- Integração entre módulos
+- Evolução contínua durante a formação
 
-Cada aplicativo pequeno que desenvolvo (sistemas de cadastro, dashboards, e-commerces, APIs, etc.) será **integrado** aqui, criando um ecossistema unificado.
+---
+
+## 📸 Screenshots
+
+*(Adicione aqui 3-4 prints do app rodando)*
+
+---
+
+## ✨ Funcionalidades Atuais
+
+- Módulos integrados de pequenos apps
+- Sistema de navegação centralizado
+- Assets e recursos compartilhados
+- Estrutura modular (em evolução)
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **Flutter** + **Dart** (principal)
+- **Provider / Riverpod** (gerenciamento de estado)
+- **SQLite / Hive** (banco local)
+- **Git + GitHub**
+- Clean Architecture + Modularização
 
 ---
 
 ## 👨‍💻 Sobre Mim
 
-Olá! Meu nome é **Othon**, estou em transição de carreira para a área de **Desenvolvimento de Software Mobile**.
+Olá! Sou **Othon Gustavo**, em transição de carreira para **Desenvolvedor Mobile Flutter**.
 
-### Por que me contratar como **Desenvolvedor Junior**?
+Estou construindo este projeto para ir **além da formação**, demonstrando proatividade, organização e visão de produto.
 
-- **Proatividade e autonomia**: Criei este projeto grande para ir além dos exercícios da formação, demonstrando visão de produto e capacidade de arquitetar soluções completas.
-- **Aprendizado rápido**: Venho absorvendo tecnologias modernas com dedicação diária.
-- **Organização e documentação**: Preocupo-me com código limpo, READMEs claros e repositórios profissionais (como este).
-- **Mentalidade de integração**: Entendo que sistemas não vivem isolados — por isso estou construindo um portfólio conectado.
-- **Paixão por tecnologia**: Programar não é só trabalho, é o caminho que escolhi para impactar positivamente.
-
-Estou em busca da **primeira oportunidade como Desenvolvedor Junior**, onde possa contribuir, aprender com o time e crescer profissionalmente.
-
----
-
-## 🚀 Tecnologias Utilizadas (em constante evolução)
-
-- **Frontend**: HTML, CSS, JavaScript, React (em aprendizado)
-- **Backend**: Node.js / Python / PHP (dependendo do módulo)
-- **Banco de dados**: MySQL, PostgreSQL, SQLite
-- **Ferramentas**: Git, GitHub, Docker (em estudo), Figma
-- **Metodologias**: Clean Code, MVC, API REST
+### Por que me contratar?
+- Aprendizado extremamente rápido
+- Foco em código limpo e boas práticas
+- Mentalidade de integração e escalabilidade
+- Paixão por criar soluções completas
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-- `/apps/` → Todos os projetos pequenos integrados
-- `/docs/` → Documentação detalhada de cada módulo
-- `/shared/` → Componentes e utilitários reutilizáveis
-- `/api/` → Backend central (em desenvolvimento)
+- `/lib/` → Código principal do app
+- `/assets/` → Imagens, ícones e recursos
+- `/android & ios/` → Configurações nativas
+- Módulos integrados (em desenvolvimento)
 
 ---
 
-## 🎯 Objetivos do Projeto
+## 🎯 Próximos Passos
 
-- [ ] Integrar todos os aplicativos pequenos em um sistema coeso
-- [ ] Criar autenticação centralizada
-- [ ] Desenvolver dashboard administrativo
-- [ ] Implementar design system próprio
-- [ ] Preparar para deploy em produção
-
----
-
-
-**"Do pequeno ao grande, construindo uma carreira sólida um commit por vez."**
+- Autenticação centralizada
+- Dashboard administrativo
+- Integração com API
+- Deploy na Play Store
+- Versão Web
 
 ---
+
+**"Do pequeno ao grande, um commit por vez."**
 
 *Última atualização: Junho/2026*
+
+---
+
+⭐ Se gostou do projeto, deixe uma estrela!
