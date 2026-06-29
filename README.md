@@ -1,17 +1,85 @@
-# meus_projetos
+# 📱 AppMãe - Projeto Integrador
 
-A new Flutter project.
+**Aplicativo principal** que centraliza todos os meus projetos desenvolvidos durante a formação em Desenvolvimento de Software.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 🎯 Sobre o Projeto
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+Este repositório é o **guarda-chuva** dos meus projetos. Nele estou integrando vários aplicativos menores em um único app, demonstrando:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Arquitetura escalável
+- Boas práticas de desenvolvimento mobile
+- Integração entre módulos
+- Evolução contínua durante a formação
+
+---
+
+## 📸 Screenshots
+
+*(Adicione aqui 3-4 prints do app rodando)*
+
+---
+
+## ✨ Funcionalidades Atuais
+
+- Módulos integrados de pequenos apps
+- Sistema de navegação centralizado
+- Assets e recursos compartilhados
+- Estrutura modular (em evolução)
+
+---
+
+## 🚀 Tecnologias Utilizadas
+
+- **Flutter** + **Dart** (principal)
+- **Provider / Riverpod** (gerenciamento de estado)
+- **SQLite / Hive** (banco local)
+- **Git + GitHub**
+- Clean Architecture + Modularização
+
+---
+
+## 👨‍💻 Sobre Mim
+
+Olá! Sou **Othon Gustavo**, em transição de carreira para **Desenvolvedor Mobile Flutter**.
+
+Estou construindo este projeto para ir **além da formação**, demonstrando proatividade, organização e visão de produto.
+
+### Por que me contratar?
+- Aprendizado extremamente rápido
+- Foco em código limpo e boas práticas
+- Mentalidade de integração e escalabilidade
+- Paixão por criar soluções completas
+
+---
+
+## 📂 Estrutura do Projeto
+
+- `/lib/` → Código principal do app
+- `/assets/` → Imagens, ícones e recursos
+- `/android & ios/` → Configurações nativas
+- Módulos integrados (em desenvolvimento)
+
+---
+
+## 🎯 Próximos Passos
+
+- Autenticação centralizada
+- Dashboard administrativo
+- Integração com API
+- Deploy na Play Store
+- Versão Web
+
+---
+
+**"Do pequeno ao grande, um commit por vez."**
+
+*Última atualização: Junho/2026*
+
+---
+
+⭐ Se gostou do projeto, deixe uma estrela!
