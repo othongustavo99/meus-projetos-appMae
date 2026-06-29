@@ -21,7 +21,7 @@ Este repositório é o **guarda-chuva** dos meus projetos. Nele estou integrando
 ## 📸 Screenshot
 
 <p align="center">
-  <img src="screenshot-home.jpeg" alt="Screenshot do AppMãe" width="300"/>
+  <img src="assets/screenshots/screenshot-home.jpeg" alt="Screenshot do AppMãe" width="300"/>
 </p>
 
 ---
