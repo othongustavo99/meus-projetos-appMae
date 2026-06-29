@@ -18,10 +18,12 @@ Este repositório é o **guarda-chuva** dos meus projetos. Nele estou integrando
 
 ---
 
-## 📸 Screenshot
+## 📸 Screenshots do Aplicativo
 
 <p align="center">
-  <img src="assets/screenshots/screenshot-home.jpeg" alt="Screenshot do AppMãe" width="300"/>
+  <img src="screenshots/screenshot-home.jpg" width="32%" alt="Tela 1">
+  <img src="screenshots/screenshot1.jpeg" width="32%" alt="Tela 2">
+  <img src="screenshots/screenshot2.jpeg" width="32%" alt="Tela 3">
 </p>
 
 ---
