@@ -113,7 +113,7 @@ class MyHomePage extends StatelessWidget {
               ),
             ),
             ListTile(
-              leading: const Icon(Icons.person),
+              leading: const Icon(Icons.folder),
               title: const Text('JSON / Lista de Questões'),
               onTap: () => _openPage(context, const ListScreen()),
             ),
