@@ -21,9 +21,9 @@ Este repositório é o **guarda-chuva** dos meus projetos. Nele estou integrando
 ## 📸 Screenshots do Aplicativo
 
 <p align="center">
-  <img src="screenshots/screenshot-home.jpg" width="32%" alt="Tela 1">
-  <img src="screenshots/screenshot1.jpeg" width="32%" alt="Tela 2">
-  <img src="screenshots/screenshot2.jpeg" width="32%" alt="Tela 3">
+  <img src="assets/screenshots/screenshot-home.jpg" width="32%" alt="Tela 1">
+  <img src="assets/screenshots/screenshot1.jpeg" width="32%" alt="Tela 2">
+  <img src="assets/screenshots/screenshot2.jpeg" width="32%" alt="Tela 3">
 </p>
 
 ---
