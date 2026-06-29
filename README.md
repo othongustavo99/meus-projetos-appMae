@@ -2,8 +2,8 @@
 
 **Aplicativo principal** que centraliza todos os meus projetos desenvolvidos durante a formação em Desenvolvimento de Software.
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=Dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge\&logo=Flutter\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge\&logo=Dart\&logoColor=white)
 
 ---
 
@@ -11,35 +11,37 @@
 
 Este repositório é o **guarda-chuva** dos meus projetos. Nele estou integrando vários aplicativos menores em um único app, demonstrando:
 
-- Arquitetura escalável
-- Boas práticas de desenvolvimento mobile
-- Integração entre módulos
-- Evolução contínua durante a formação
+* Arquitetura escalável
+* Boas práticas de desenvolvimento mobile
+* Integração entre módulos
+* Evolução contínua durante a formação
 
 ---
 
-## 📸 Screenshots
+## 📸 Screenshot
 
-*(Adicione aqui 3-4 prints do app rodando)*
+<p align="center">
+  <img src="screenshot-home.jpeg" alt="Screenshot do AppMãe" width="300"/>
+</p>
 
 ---
 
 ## ✨ Funcionalidades Atuais
 
-- Módulos integrados de pequenos apps
-- Sistema de navegação centralizado
-- Assets e recursos compartilhados
-- Estrutura modular (em evolução)
+* Módulos integrados de pequenos apps
+* Sistema de navegação centralizado
+* Assets e recursos compartilhados
+* Estrutura modular (em evolução)
 
 ---
 
 ## 🚀 Tecnologias Utilizadas
 
-- **Flutter** + **Dart** (principal)
-- **Provider / Riverpod** (gerenciamento de estado)
-- **SQLite / Hive** (banco local)
-- **Git + GitHub**
-- Clean Architecture + Modularização
+* **Flutter** + **Dart** (principal)
+* **Provider / Riverpod** (gerenciamento de estado)
+* **SQLite / Hive** (banco local)
+* **Git + GitHub**
+* Clean Architecture + Modularização
 
 ---
 
@@ -50,29 +52,30 @@ Olá! Sou **Othon Gustavo**, em transição de carreira para **Desenvolvedor Mob
 Estou construindo este projeto para ir **além da formação**, demonstrando proatividade, organização e visão de produto.
 
 ### Por que me contratar?
-- Aprendizado extremamente rápido
-- Foco em código limpo e boas práticas
-- Mentalidade de integração e escalabilidade
-- Paixão por criar soluções completas
+
+* Aprendizado extremamente rápido
+* Foco em código limpo e boas práticas
+* Mentalidade de integração e escalabilidade
+* Paixão por criar soluções completas
 
 ---
 
 ## 📂 Estrutura do Projeto
 
-- `/lib/` → Código principal do app
-- `/assets/` → Imagens, ícones e recursos
-- `/android & ios/` → Configurações nativas
-- Módulos integrados (em desenvolvimento)
+* `/lib/` → Código principal do app
+* `/assets/` → Imagens, ícones e recursos
+* `/android & ios/` → Configurações nativas
+* Módulos integrados (em desenvolvimento)
 
 ---
 
 ## 🎯 Próximos Passos
 
-- Autenticação centralizada
-- Dashboard administrativo
-- Integração com API
-- Deploy na Play Store
-- Versão Web
+* Autenticação centralizada
+* Dashboard administrativo
+* Integração com API
+* Deploy na Play Store
+* Versão Web
 
 ---
 
